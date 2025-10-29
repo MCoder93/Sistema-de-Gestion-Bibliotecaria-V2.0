@@ -1,0 +1,7 @@
+Usuario ID: U002
+Usuario Nombre: Sabrina Fuente Alba
+Libro ID: L005
+Libro Título: En el Amor y en la Guerra
+Fecha Préstamo: 25/10/2025 10:34
+Fecha Devolución: 25/10/2025 10:35
+Estado Devolución: Buen Estado

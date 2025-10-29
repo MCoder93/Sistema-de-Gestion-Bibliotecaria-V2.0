@@ -1,0 +1,7 @@
+Usuario ID: U001
+Usuario Nombre: Antonia Fuentes Rivera
+Libro ID: L001
+Libro Título: Alas de ónix
+Fecha Préstamo: 23/10/2025 22:14
+Fecha Devolución: 23/10/2025 22:14
+Estado Devolución: Buen Estado, pero con algunas páginas dobladas.
