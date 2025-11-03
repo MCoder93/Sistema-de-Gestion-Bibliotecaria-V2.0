@@ -1,4 +1,4 @@
-# 🐺 Programación en Python
+#🐺 Proyecto en Python
 
 """
 Sistema de Gestión Bibliotecaria con CRUD Completo
@@ -832,4 +832,5 @@ def app():
 # ==================== PUNTO DE ENTRADA ====================
 if __name__ == "__main__":
     app()
+
 
